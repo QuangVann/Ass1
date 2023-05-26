@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 14 Pro 1TGB ",
+      "price": 400000,
+      "img": "https://vapa.vn/wp-content/uploads/2022/12/tai-hinh-nen-anime-ngau-001.jpg"
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra vip",
+      "price": 333,
+      "img": "anh",
+      "id": 2
+    }
+  ]
+}
